@@ -5,3 +5,12 @@
 
 ### createPortal
 * component 밖을 접근할때 iframe 이나 등등등
+
+### componentDidMount
+* 하위 컴포넌트의 에러발생시 catch
+
+### Higher-order Component
+* 반복되는 코드 제거
+
+### setStateNull
+* state 제어
